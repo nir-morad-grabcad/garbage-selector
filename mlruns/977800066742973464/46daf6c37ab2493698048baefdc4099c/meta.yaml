@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/977800066742973464/46daf6c37ab2493698048baefdc4099c/artifacts
+end_time: 1742894680644
+entry_point_name: ''
+experiment_id: '977800066742973464'
+lifecycle_stage: active
+run_id: 46daf6c37ab2493698048baefdc4099c
+run_name: dazzling-eel-614
+run_uuid: 46daf6c37ab2493698048baefdc4099c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742893442953
+status: 3
+tags: []
+user_id: Nir.Morad

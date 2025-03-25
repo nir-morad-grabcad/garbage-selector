@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/977800066742973464/5c982f8b19284028be164a2303dd1511/artifacts
+end_time: 1742825459714
+entry_point_name: ''
+experiment_id: '977800066742973464'
+lifecycle_stage: active
+run_id: 5c982f8b19284028be164a2303dd1511
+run_name: enchanting-bug-109
+run_uuid: 5c982f8b19284028be164a2303dd1511
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742825008570
+status: 3
+tags: []
+user_id: Nir.Morad
