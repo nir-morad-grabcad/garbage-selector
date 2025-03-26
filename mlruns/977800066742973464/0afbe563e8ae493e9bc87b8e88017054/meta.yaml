@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/977800066742973464/0afbe563e8ae493e9bc87b8e88017054/artifacts
+end_time: 1742972519500
+entry_point_name: ''
+experiment_id: '977800066742973464'
+lifecycle_stage: active
+run_id: 0afbe563e8ae493e9bc87b8e88017054
+run_name: tasteful-conch-703
+run_uuid: 0afbe563e8ae493e9bc87b8e88017054
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742971874342
+status: 3
+tags: []
+user_id: Nir.Morad

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/977800066742973464/77b48e18400d4fa5a360fd39f7f0bde8/artifacts
+end_time: 1742979591496
+entry_point_name: ''
+experiment_id: '977800066742973464'
+lifecycle_stage: active
+run_id: 77b48e18400d4fa5a360fd39f7f0bde8
+run_name: thundering-duck-739
+run_uuid: 77b48e18400d4fa5a360fd39f7f0bde8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742979591264
+status: 4
+tags: []
+user_id: Nir.Morad

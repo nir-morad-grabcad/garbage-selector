@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/977800066742973464/74cfa912b7a5445eadf24b8c9a6c79a9/artifacts
+end_time: 1742913573814
+entry_point_name: ''
+experiment_id: '977800066742973464'
+lifecycle_stage: active
+run_id: 74cfa912b7a5445eadf24b8c9a6c79a9
+run_name: upbeat-cub-823
+run_uuid: 74cfa912b7a5445eadf24b8c9a6c79a9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742913425079
+status: 4
+tags: []
+user_id: Nir.Morad

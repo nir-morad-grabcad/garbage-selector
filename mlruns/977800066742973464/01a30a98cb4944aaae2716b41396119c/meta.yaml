@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/977800066742973464/01a30a98cb4944aaae2716b41396119c/artifacts
+end_time: 1742977463640
+entry_point_name: ''
+experiment_id: '977800066742973464'
+lifecycle_stage: active
+run_id: 01a30a98cb4944aaae2716b41396119c
+run_name: intelligent-hen-552
+run_uuid: 01a30a98cb4944aaae2716b41396119c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742975657184
+status: 3
+tags: []
+user_id: Nir.Morad

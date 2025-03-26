@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/977800066742973464/e78aa6bb431c45d78d34268000401f02/artifacts
+end_time: 1742897996413
+entry_point_name: ''
+experiment_id: '977800066742973464'
+lifecycle_stage: active
+run_id: e78aa6bb431c45d78d34268000401f02
+run_name: smiling-finch-527
+run_uuid: e78aa6bb431c45d78d34268000401f02
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742897257518
+status: 3
+tags: []
+user_id: Nir.Morad

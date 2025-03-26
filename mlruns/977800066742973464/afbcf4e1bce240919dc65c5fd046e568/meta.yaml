@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/977800066742973464/afbcf4e1bce240919dc65c5fd046e568/artifacts
+end_time: 1742901717632
+entry_point_name: ''
+experiment_id: '977800066742973464'
+lifecycle_stage: active
+run_id: afbcf4e1bce240919dc65c5fd046e568
+run_name: adaptable-smelt-795
+run_uuid: afbcf4e1bce240919dc65c5fd046e568
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742901707003
+status: 4
+tags: []
+user_id: Nir.Morad

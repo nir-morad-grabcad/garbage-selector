@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/977800066742973464/035ece3a9b534af89e55a9f896ab7dc0/artifacts
+end_time: 1742975607248
+entry_point_name: ''
+experiment_id: '977800066742973464'
+lifecycle_stage: active
+run_id: 035ece3a9b534af89e55a9f896ab7dc0
+run_name: crawling-wolf-204
+run_uuid: 035ece3a9b534af89e55a9f896ab7dc0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742974500816
+status: 4
+tags: []
+user_id: Nir.Morad

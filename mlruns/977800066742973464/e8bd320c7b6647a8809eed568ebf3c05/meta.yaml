@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/977800066742973464/e8bd320c7b6647a8809eed568ebf3c05/artifacts
+end_time: 1742979514237
+entry_point_name: ''
+experiment_id: '977800066742973464'
+lifecycle_stage: active
+run_id: e8bd320c7b6647a8809eed568ebf3c05
+run_name: stylish-eel-539
+run_uuid: e8bd320c7b6647a8809eed568ebf3c05
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742977888933
+status: 3
+tags: []
+user_id: Nir.Morad
