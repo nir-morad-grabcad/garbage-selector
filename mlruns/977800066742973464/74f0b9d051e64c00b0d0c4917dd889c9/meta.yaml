@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/977800066742973464/74f0b9d051e64c00b0d0c4917dd889c9/artifacts
+deleted_time: 1742994287164
 end_time: 1742915192652
 entry_point_name: ''
 experiment_id: '977800066742973464'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 74f0b9d051e64c00b0d0c4917dd889c9
 run_name: respected-rook-807
 run_uuid: 74f0b9d051e64c00b0d0c4917dd889c9

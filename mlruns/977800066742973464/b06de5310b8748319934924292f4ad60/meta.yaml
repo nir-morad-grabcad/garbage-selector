@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/977800066742973464/b06de5310b8748319934924292f4ad60/artifacts
+deleted_time: 1742994287040
 end_time: 1742827567327
 entry_point_name: ''
 experiment_id: '977800066742973464'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: b06de5310b8748319934924292f4ad60
 run_name: nervous-bear-203
 run_uuid: b06de5310b8748319934924292f4ad60

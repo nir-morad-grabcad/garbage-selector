@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/977800066742973464/e13d1e1a9a4f4c43820d1393a4ea17c1/artifacts
+deleted_time: 1742994287269
 end_time: 1742901630510
 entry_point_name: ''
 experiment_id: '977800066742973464'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: e13d1e1a9a4f4c43820d1393a4ea17c1
 run_name: trusting-chimp-716
 run_uuid: e13d1e1a9a4f4c43820d1393a4ea17c1

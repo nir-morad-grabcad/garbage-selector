@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/977800066742973464/6e543e6d913e408d8c7daf0ab8764fb0/artifacts
+deleted_time: 1742994287131
 end_time: 1742910380892
 entry_point_name: ''
 experiment_id: '977800066742973464'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 6e543e6d913e408d8c7daf0ab8764fb0
 run_name: rogue-seal-438
 run_uuid: 6e543e6d913e408d8c7daf0ab8764fb0

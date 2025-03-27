@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/977800066742973464/94dfc7d147c34f0788d034065be6ea0c/artifacts
+deleted_time: 1742994287346
 end_time: 1742892116128
 entry_point_name: ''
 experiment_id: '977800066742973464'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 94dfc7d147c34f0788d034065be6ea0c
 run_name: fearless-ape-397
 run_uuid: 94dfc7d147c34f0788d034065be6ea0c

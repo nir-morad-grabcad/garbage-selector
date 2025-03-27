@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/977800066742973464/74cfa912b7a5445eadf24b8c9a6c79a9/artifacts
+deleted_time: 1742994287141
 end_time: 1742913573814
 entry_point_name: ''
 experiment_id: '977800066742973464'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 74cfa912b7a5445eadf24b8c9a6c79a9
 run_name: upbeat-cub-823
 run_uuid: 74cfa912b7a5445eadf24b8c9a6c79a9

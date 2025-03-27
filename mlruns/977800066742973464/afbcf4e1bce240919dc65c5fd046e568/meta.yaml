@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/977800066742973464/afbcf4e1bce240919dc65c5fd046e568/artifacts
+deleted_time: 1742994287237
 end_time: 1742901717632
 entry_point_name: ''
 experiment_id: '977800066742973464'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: afbcf4e1bce240919dc65c5fd046e568
 run_name: adaptable-smelt-795
 run_uuid: afbcf4e1bce240919dc65c5fd046e568

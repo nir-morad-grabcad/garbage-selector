@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/977800066742973464/f016adfb3a414a47bec15ef02cc48e76/artifacts
+deleted_time: 1742994287179
 end_time: 1742973928507
 entry_point_name: ''
 experiment_id: '977800066742973464'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: f016adfb3a414a47bec15ef02cc48e76
 run_name: chill-hound-844
 run_uuid: f016adfb3a414a47bec15ef02cc48e76

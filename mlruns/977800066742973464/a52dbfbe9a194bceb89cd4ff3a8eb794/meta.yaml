@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/977800066742973464/a52dbfbe9a194bceb89cd4ff3a8eb794/artifacts
+deleted_time: 1742994287144
 end_time: 1742904773569
 entry_point_name: ''
 experiment_id: '977800066742973464'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: a52dbfbe9a194bceb89cd4ff3a8eb794
 run_name: bald-deer-381
 run_uuid: a52dbfbe9a194bceb89cd4ff3a8eb794

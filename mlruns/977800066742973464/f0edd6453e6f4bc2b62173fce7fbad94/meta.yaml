@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/977800066742973464/f0edd6453e6f4bc2b62173fce7fbad94/artifacts
+deleted_time: 1742994287348
 end_time: 1742889879011
 entry_point_name: ''
 experiment_id: '977800066742973464'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: f0edd6453e6f4bc2b62173fce7fbad94
 run_name: glamorous-steed-53
 run_uuid: f0edd6453e6f4bc2b62173fce7fbad94

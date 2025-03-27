@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/977800066742973464/5c982f8b19284028be164a2303dd1511/artifacts
+deleted_time: 1742994287035
 end_time: 1742825459714
 entry_point_name: ''
 experiment_id: '977800066742973464'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 5c982f8b19284028be164a2303dd1511
 run_name: enchanting-bug-109
 run_uuid: 5c982f8b19284028be164a2303dd1511

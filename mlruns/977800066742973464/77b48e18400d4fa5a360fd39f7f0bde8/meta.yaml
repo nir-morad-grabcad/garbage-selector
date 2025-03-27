@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/977800066742973464/77b48e18400d4fa5a360fd39f7f0bde8/artifacts
+deleted_time: 1743059179171
 end_time: 1742979591496
 entry_point_name: ''
 experiment_id: '977800066742973464'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 77b48e18400d4fa5a360fd39f7f0bde8
 run_name: thundering-duck-739
 run_uuid: 77b48e18400d4fa5a360fd39f7f0bde8

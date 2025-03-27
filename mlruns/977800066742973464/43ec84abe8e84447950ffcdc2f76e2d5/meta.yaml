@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/977800066742973464/43ec84abe8e84447950ffcdc2f76e2d5/artifacts
+deleted_time: 1742994287324
 end_time: 1742896666721
 entry_point_name: ''
 experiment_id: '977800066742973464'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 43ec84abe8e84447950ffcdc2f76e2d5
 run_name: selective-bass-222
 run_uuid: 43ec84abe8e84447950ffcdc2f76e2d5

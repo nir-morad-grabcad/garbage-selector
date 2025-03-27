@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/977800066742973464/c7920c4d9c7e4cbf8f797f118a0e3777/artifacts
+deleted_time: 1742994287106
 end_time: 1742910642715
 entry_point_name: ''
 experiment_id: '977800066742973464'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: c7920c4d9c7e4cbf8f797f118a0e3777
 run_name: delicate-stoat-146
 run_uuid: c7920c4d9c7e4cbf8f797f118a0e3777

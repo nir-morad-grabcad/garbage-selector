@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/977800066742973464/b430c76042b74d44bbec753db72187b4/artifacts
+deleted_time: 1742994287197
 end_time: 1742902947882
 entry_point_name: ''
 experiment_id: '977800066742973464'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: b430c76042b74d44bbec753db72187b4
 run_name: worried-gnu-752
 run_uuid: b430c76042b74d44bbec753db72187b4

@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/977800066742973464/429bbe9f4e014f49b74a1464108f0d17/artifacts
+deleted_time: 1742994287253
 end_time: 1742901672216
 entry_point_name: ''
 experiment_id: '977800066742973464'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 429bbe9f4e014f49b74a1464108f0d17
 run_name: burly-sloth-373
 run_uuid: 429bbe9f4e014f49b74a1464108f0d17

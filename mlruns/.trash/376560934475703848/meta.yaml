@@ -1,0 +1,7 @@
+artifact_location: mlflow-artifacts:/376560934475703848
+creation_time: 1742824778528
+experiment_id: '376560934475703848'
+last_update_time: 1742994234460
+lifecycle_stage: deleted
+name: mlflow-tf-keras-mnist
+tags: {}
