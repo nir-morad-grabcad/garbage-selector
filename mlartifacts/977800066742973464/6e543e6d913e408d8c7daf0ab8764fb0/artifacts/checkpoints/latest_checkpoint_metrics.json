@@ -1,8 +1,0 @@
-{
-  "loss": 0.41622716188430786,
-  "accuracy": 0.9957739114761353,
-  "val_loss": 0.0,
-  "val_accuracy": 1.0,
-  "epoch": 1,
-  "global_step": 120
-}

@@ -1,0 +1,39 @@
+.bars-container {
+    width: 450px;
+    margin: 20px auto;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  
+  .bar-row {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+  
+  .bar-label {
+    width: 200px;
+    text-align: right;
+  }
+  
+  .bar-outer {
+    flex: 1;
+    height: 20px;
+    background-color: #eee;
+    border-radius: 20px;
+    overflow: hidden;
+  }
+  
+  .bar-inner {
+    height: 100%;
+    background-color: #00bfff;
+    transition: width 0.5s ease-in-out;
+    border-radius: 10px 0 0 10px;
+  }
+  
+  .bar-percent {
+    width: 50px;
+    text-align: left;
+  }
+  
