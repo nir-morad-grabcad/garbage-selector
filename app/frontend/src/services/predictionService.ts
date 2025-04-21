@@ -1,16 +1,17 @@
 export class PredictionService {
   private ws: WebSocket;
   private connected: Promise<void>;
-  private lastFrameTimestamp: number = 0;
+  private lastFrameTimestamp: number = 2;
   private onPrediction: (prediction: number[]) => void;
 
+  
   constructor(wsUrl: string, onPrediction: (prediction: number[]) => void) {
     this.ws = new WebSocket(wsUrl);
     this.onPrediction = onPrediction;
 
     this.connected = new Promise((resolve) => {
       this.ws.onopen = () => {
-        console.log("✅ WebSocket connected");
+        console.log("✅ WebSocket connected!!");
         resolve();
       };
     });
@@ -28,12 +29,12 @@ export class PredictionService {
           return;
         }
 
-        if (frameTimestamp < this.lastFrameTimestamp) {
-          console.warn(
-            `⏱️ Dropped stale prediction (sent: ${frameTimestamp}, last: ${this.lastFrameTimestamp})`
-          );
-          return;
-        }
+        // if (frameTimestamp < this.lastFrameTimestamp) {
+        //   console.warn(
+        //     `⏱️ Dropped stale prediction (sent: ${frameTimestamp}, last: ${this.lastFrameTimestamp})`
+        //   );
+        //   return;
+        // }
 
         this.onPrediction(data.prediction);
       } catch (err) {

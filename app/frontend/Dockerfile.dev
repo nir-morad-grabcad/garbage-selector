@@ -1,0 +1,16 @@
+FROM node:18
+
+WORKDIR /app
+
+# Only copy and install dependencies
+
+COPY package.json ./
+RUN rm -f /root/.npmrc
+RUN npm install
+
+# Optionally copy the source, but not needed if volumes are used
+# COPY . .
+
+EXPOSE 3000
+
+CMD ["npm", "start"]

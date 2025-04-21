@@ -1,4 +1,0 @@
--r requirements.txt
-
-# dev/test-only dependencies
-websockets

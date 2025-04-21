@@ -1,11 +1,10 @@
 import React, { useEffect, useRef, useState } from "react";
 import PredictionBars from "./components/predictionBars";
 import { PredictionService } from "./services/predictionService";
-
 const WS_URL = process.env.REACT_APP_WS_URL || "ws://localhost:8000/ws";
 
 const App: React.FC = () => {
-  const [prediction, setPrediction] = useState<number[]>([0, 0, 0]);
+  const [prediction, setPrediction] = useState<number[]>([0, 0, 0, 0, 0]);
   const predictionServiceRef = useRef<PredictionService | null>(null);
   const videoRef = useRef<HTMLVideoElement | null>(null);
 
@@ -54,7 +53,7 @@ const App: React.FC = () => {
 
   return (
     <div>
-      <h1>Real-Time Garbage Classifier</h1>
+      <h1>Real-Time Garbage Classifier </h1>
       <PredictionBars predictions={prediction} />
     </div>
   );

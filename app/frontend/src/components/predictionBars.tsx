@@ -14,7 +14,7 @@ const CLASS_LABELS = [
 ];
 
 export function colorFade(color: string): string {
-  return `linear-gradient(to right, ${color}, ${color} 10%)`;
+  return `linear-gradient(to left, ${color}, ${color} 10%)`;
 }
 
 const PredictionBars: React.FC<PredictionBarsProps> = ({ predictions }) => {
