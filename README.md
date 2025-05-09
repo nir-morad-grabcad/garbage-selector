@@ -62,7 +62,7 @@ docker compose up --build
 - Real-time updates via WebSocket
 - Visual confidence indicators with animated bar charts
 - Mobile-responsive dashboard
-- Fully tested with Testing Library and Jest
+
 
 ---
 
