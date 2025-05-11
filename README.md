@@ -61,8 +61,6 @@ docker compose up --build
 - React 19 + TypeScript
 - Real-time updates via WebSocket
 - Visual confidence indicators with animated bar charts
-- Mobile-responsive dashboard
-
 
 ---
 
@@ -98,6 +96,12 @@ docker compose down --volumes
 ```
 
 ---
+
+## ⏭️ What Next?
+-- Improve UI, make it more suitable for PI
+-- Adjust Frame rate
+-- Use liteTF
+-- Increase accuracy 
 
 ## ✍️ Author
 
